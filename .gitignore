@@ -1,5 +1,6 @@
 .vscode
 tmp
 cmd
+bin
 *.txt
 *.json
